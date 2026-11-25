@@ -1,13 +1,5 @@
 <div align="center">
 
-```text
-     ╦╦ ╦╔═╗╔╦╗╔═╗╔╗╔╔═╗╔╦╗╔═╗╦═╗╔═╗
-     ║║ ║╚═╗ ║ ║ ║║║║║╣ ║║║║ ║╠╦╝║╣
-    ╚╝╚═╝╚═╝ ╩ ╚═╝╝╚╝╚═╝╩ ╩╚═╝╩╚═╚═╝
-   ───────────────────────────────────
-       INSERT COIN. LOSE NOTHING.
-```
-
 # JUSTONEMORE
 
 **A retro handheld arcade gambling simulator built in Game Boy LCD monochrome & DMG-01 green.**  
