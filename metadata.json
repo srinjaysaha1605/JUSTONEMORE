@@ -1,0 +1,6 @@
+{
+  "name": "LUCK//ZERO",
+  "description": "Retro handheld gambling arcade simulator. Insert coin, lose nothing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
