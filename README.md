@@ -13,7 +13,6 @@ Ten deterministic mini-games, procedural 8-bit chiptune audio, local coin progre
   <img src="https://img.shields.io/badge/HTML5-Canvas-081208?style=flat-square&logo=html5&logoColor=a8e016&labelColor=163316&color=386b28" alt="HTML5 Canvas" />
   <img src="https://img.shields.io/badge/Audio-Web_Audio_API-081208?style=flat-square&labelColor=163316&color=386b28" alt="Web Audio API" />
   <img src="https://img.shields.io/badge/Icons-Lucide_%2B_Pixel_SVG-081208?style=flat-square&labelColor=163316&color=386b28" alt="Lucide and Pixel SVG" />
-  <img src="https://img.shields.io/badge/Tests-node%3Atest-081208?style=flat-square&logo=nodedotjs&logoColor=a8e016&labelColor=163316&color=386b28" alt="Node Test Runner" />
 </p>
 
 </div>
